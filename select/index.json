@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ミニッツ・メイド",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2025-12-25T11:28:31.019033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミニッツ・メイド",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/01_ミニッツ・メイド_RIP_SLYME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミニッツ・メイド",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_ミニッツ・メイド_RIP_SLYME.txt"
+    }
+  ]
+}
